@@ -49,7 +49,6 @@ public class MorseFlashApplicationTests extends ApplicationTestCase<MorseFlashAp
        */
       @SmallTest
       public void testPreconditions() {
-		assertEquals("1","2");
       }
 
       /**
